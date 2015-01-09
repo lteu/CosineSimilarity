@@ -32,3 +32,4 @@ class CosineSimilarity {
     return sqrt($result);
   }
 }
+?>
